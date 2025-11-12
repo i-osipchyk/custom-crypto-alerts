@@ -40,7 +40,7 @@ INTERVAL_MAP = {
     "4h": Client.KLINE_INTERVAL_4HOUR,
 }
 
-LIMIT = 21
+LIMIT = 100
 
 # Indicator configuration
 DEFAULT_INDICATORS = {
