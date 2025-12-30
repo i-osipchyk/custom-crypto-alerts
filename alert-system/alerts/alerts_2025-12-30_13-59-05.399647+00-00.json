@@ -1,0 +1,938 @@
+[
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T13:59:29.504000+00:00",
+        "price": 0.167,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:01:00.275000+00:00",
+        "price": 0.09403,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:01:19.928000+00:00",
+        "price": 0.1669,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:01:39.783000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:02:00.990000+00:00",
+        "price": 0.14489,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:02:31.568000+00:00",
+        "price": 0.09436,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:02:50.565000+00:00",
+        "price": 0.030579,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:03:00.431000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:03:01.959000+00:00",
+        "price": 0.1442,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:03:31.648000+00:00",
+        "price": 0.09389,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:03:51.600000+00:00",
+        "price": 0.03057,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:04:00.558000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:04:49.210000+00:00",
+        "price": 0.1643,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:05:00.776000+00:00",
+        "price": 0.1075,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:05:54.314000+00:00",
+        "price": 0.030608,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:06:00.854000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:06:12.300000+00:00",
+        "price": 0.09279,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:06:57.511000+00:00",
+        "price": 0.03056,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:07:02.282000+00:00",
+        "price": 0.1075,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:07:07.820000+00:00",
+        "price": 0.07847,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:08:00.773000+00:00",
+        "price": 0.030583,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:08:02.423000+00:00",
+        "price": 0.1076,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:09:06.321000+00:00",
+        "price": 0.030616,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:09:10.051000+00:00",
+        "price": 0.14405,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:09:16.377000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:10:10.674000+00:00",
+        "price": 0.030585,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:10:12.330000+00:00",
+        "price": 0.14402,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:10:35.124000+00:00",
+        "price": 0.1071,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:11:11.139000+00:00",
+        "price": 0.030512,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:11:12.409000+00:00",
+        "price": 0.14421,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:11:27.550000+00:00",
+        "price": 0.09375,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:11:48.415000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:12:13.389000+00:00",
+        "price": 0.14404,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:12:48.282000+00:00",
+        "price": 0.09264,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:12:51.168000+00:00",
+        "price": 0.1071,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:13:11.348000+00:00",
+        "price": 0.030461,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:13:13.691000+00:00",
+        "price": 0.14416,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:13:51.911000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:14:13.889000+00:00",
+        "price": 0.09282,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:14:56.125000+00:00",
+        "price": 0.1072,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:15:42.653000+00:00",
+        "price": 0.09368,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:15:56.135000+00:00",
+        "price": 0.1073,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:16:42.898000+00:00",
+        "price": 0.09409,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:17:43.042000+00:00",
+        "price": 0.09415,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:18:30.133000+00:00",
+        "price": 0.14492,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:19:00.614000+00:00",
+        "price": 0.09417,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:19:26.059000+00:00",
+        "price": 0.07837,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:19:30.317000+00:00",
+        "price": 0.14476,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:20:00.780000+00:00",
+        "price": 0.09389,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:20:08.316000+00:00",
+        "price": 0.1664,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:20:30.632000+00:00",
+        "price": 0.14449,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:20:47.543000+00:00",
+        "price": 0.030451,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:21:01.059000+00:00",
+        "price": 0.09388,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:21:04.865000+00:00",
+        "price": 0.07836,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:21:09.119000+00:00",
+        "price": 0.1665,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:22:01.215000+00:00",
+        "price": 0.030525,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:22:05.481000+00:00",
+        "price": 0.07842,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:22:07.246000+00:00",
+        "price": 0.09419,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:22:56.731000+00:00",
+        "price": 0.1664,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:23:01.464000+00:00",
+        "price": 0.030556,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:23:07.403000+00:00",
+        "price": 0.09395,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:24:03.342000+00:00",
+        "price": 0.030506,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:24:07.689000+00:00",
+        "price": 0.09414,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:24:08.808000+00:00",
+        "price": 0.1664,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:25:05.451000+00:00",
+        "price": 0.030509,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:25:07.462000+00:00",
+        "price": 0.09283,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:25:07.579000+00:00",
+        "price": 0.05603,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:26:10.717000+00:00",
+        "price": 0.030537,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:26:28.623000+00:00",
+        "price": 0.05619,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:26:56.191000+00:00",
+        "price": 0.1644,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:27:16.574000+00:00",
+        "price": 0.03058,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:27:23.864000+00:00",
+        "price": 0.07838,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:27:34.127000+00:00",
+        "price": 0.05604,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:27:38.175000+00:00",
+        "price": 0.09288,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:27:43.962000+00:00",
+        "price": 0.1042,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:27:56.298000+00:00",
+        "price": 0.1638,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:28:21.842000+00:00",
+        "price": 0.030614,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:28:25.743000+00:00",
+        "price": 0.07839,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:28:38.357000+00:00",
+        "price": 0.09272,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:29:03.785000+00:00",
+        "price": 0.1644,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:29:04.775000+00:00",
+        "price": 0.1042,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:29:27.682000+00:00",
+        "price": 0.0784,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:29:29.713000+00:00",
+        "price": 0.030562,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:29:34.026000+00:00",
+        "price": 0.05624,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:30:04.048000+00:00",
+        "price": 0.1642,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:30:28.509000+00:00",
+        "price": 0.0784,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:30:30.248000+00:00",
+        "price": 0.030515,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:30:47.131000+00:00",
+        "price": 0.05603,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:31:04.168000+00:00",
+        "price": 0.1639,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:31:28.851000+00:00",
+        "price": 0.07851,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:31:32.111000+00:00",
+        "price": 0.030582,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:31:50.374000+00:00",
+        "price": 0.14409,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:32:04.007000+00:00",
+        "price": 0.09375,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:32:05.939000+00:00",
+        "price": 0.1643,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:32:29.322000+00:00",
+        "price": 0.07846,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:32:31.533000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:32:45.228000+00:00",
+        "price": 0.030542,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:33:05.056000+00:00",
+        "price": 0.09372,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:33:34.565000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:33:40.279000+00:00",
+        "price": 0.1637,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:33:47.529000+00:00",
+        "price": 0.030544,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:34:04.499000+00:00",
+        "price": 0.05508,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:34:05.359000+00:00",
+        "price": 0.09369,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:34:35.541000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:34:36.053000+00:00",
+        "price": 0.14447,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:34:40.609000+00:00",
+        "price": 0.1643,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:34:47.885000+00:00",
+        "price": 0.030515,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:35:04.862000+00:00",
+        "price": 0.05493,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:35:05.546000+00:00",
+        "price": 0.0939,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:35:39+00:00",
+        "price": 0.07828,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:35:45.593000+00:00",
+        "price": 0.1441,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:35:50.976000+00:00",
+        "price": 0.030477,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:35:55.385000+00:00",
+        "price": 0.1644,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:36:01.559000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:36:31.618000+00:00",
+        "price": 0.05509,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:36:46.468000+00:00",
+        "price": 0.14425,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:36:54.223000+00:00",
+        "price": 0.030537,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:37:31.842000+00:00",
+        "price": 0.05485,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:37:46.926000+00:00",
+        "price": 0.14457,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:37:49.559000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:37:55.823000+00:00",
+        "price": 0.030509,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:38:16.096000+00:00",
+        "price": 0.07828,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:38:31.921000+00:00",
+        "price": 0.05482,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:38:47.273000+00:00",
+        "price": 0.14435,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:38:52.364000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:38:55.337000+00:00",
+        "price": 0.1644,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:39:03.107000+00:00",
+        "price": 0.030476,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:39:16.942000+00:00",
+        "price": 0.07829,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:39:32.895000+00:00",
+        "price": 0.05488,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:39:55.363000+00:00",
+        "price": 0.1643,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T14:40:00.274000+00:00",
+        "price": 0.1043,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:40:04.394000+00:00",
+        "price": 0.030485,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:40:33.405000+00:00",
+        "price": 0.05483,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:40:42.973000+00:00",
+        "price": 0.07828,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:40:49.130000+00:00",
+        "price": 0.14409,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T14:41:25.907000+00:00",
+        "price": 0.1644,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:41:34.925000+00:00",
+        "price": 0.05499,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:41:44.897000+00:00",
+        "price": 0.07843,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:41:49.418000+00:00",
+        "price": 0.14476,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:42:32.610000+00:00",
+        "price": 0.07883,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:42:35.207000+00:00",
+        "price": 0.05491,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T14:42:50.130000+00:00",
+        "price": 0.14487,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:42:54.062000+00:00",
+        "price": 0.09442,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:43:33.647000+00:00",
+        "price": 0.07903,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:43:36.680000+00:00",
+        "price": 0.05485,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:44:00.581000+00:00",
+        "price": 0.09442,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:44:01.083000+00:00",
+        "price": 0.030467,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:44:03.301000+00:00",
+        "price": 0.07867,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:44:39.387000+00:00",
+        "price": 0.05495,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T14:45:01.187000+00:00",
+        "price": 0.0305,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:45:01.228000+00:00",
+        "price": 0.09437,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:45:03.986000+00:00",
+        "price": 0.07865,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "polyxusdt",
+        "time": "2025-12-30T14:45:40.402000+00:00",
+        "price": 0.05491,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:45:43.224000+00:00",
+        "price": 0.07875,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T14:46:01.596000+00:00",
+        "price": 0.09447,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ariausdt",
+        "time": "2025-12-30T14:46:09.140000+00:00",
+        "price": 0.0785,
+        "reason": "ema20"
+    }
+]

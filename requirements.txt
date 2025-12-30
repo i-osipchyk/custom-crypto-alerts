@@ -112,3 +112,4 @@ tqdm
 orjson
 matplotlib
 mplfinance
+aiofiles
