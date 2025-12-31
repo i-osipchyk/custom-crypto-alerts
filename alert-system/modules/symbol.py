@@ -3,7 +3,7 @@ import json
 import aiofiles
 import pandas as pd
 from datetime import datetime, timedelta, timezone
-from modules.config import UP_PCT_THRESHOLD_DAY, UP_PCT_THRESHOLD_NOW, DAILY_VOLUME_THRESHOLD, ALERT_COOLDOWN_MS, JSON_ALERTS_FILE, JSON_ALERTS_FILE_LOCK
+from modules.config import UP_PCT_THRESHOLD_DAY, UP_PCT_THRESHOLD_NOW, DAILY_VOLUME_THRESHOLD, RELATIVE_VOLUME_THRESHOLD, ALERT_COOLDOWN_MS, JSON_ALERTS_FILE, JSON_ALERTS_FILE_LOCK
 
 
 class Symbol:
@@ -23,7 +23,8 @@ class Symbol:
 
         self.alerts = {
             "vwap": None,
-            "ema20": None
+            "ema20": None,
+            "spike": None
         }
 
         self.session_date = datetime.now(timezone.utc).date()
@@ -83,6 +84,7 @@ class Symbol:
 
                 self.alerts["vwap"] = int(k[0])
                 self.alerts["ema20"] = int(k[0])
+                self.alerts["spike"] = int(k[0])
 
                 self.logger.info(
                     f"{self.symbol}: Initialized df_5m with {len(self.df_5m)} candles. Current volume: {self.daily_volume_usdt}"
@@ -185,12 +187,19 @@ class Symbol:
         # daily volume (session only)
         self.daily_volume_usdt = session_df["volume_usdt"].sum()
 
-        # send alert
+        # average volume
+        self.average_volume_5 = self.df_5m["volume"].iloc[-6:-1].mean() if len(self.df_5m) >= 6 else None
+
+        # send pullback alert
         if self.was_up_today and self.is_up and self.daily_volume_usdt > DAILY_VOLUME_THRESHOLD:
             if close > self.vwap and close < self.vwap * 1.005:
                 await self.send_alert(close, "vwap")
             if close > self.ema_20 and close < self.ema_20 * 1.005:
                 await self.send_alert(close, "ema20")
+
+        # send spike alert
+        if volume > self.average_volume_5 * RELATIVE_VOLUME_THRESHOLD and volume_usdt > 100_000 and high / open_ > 1.01:
+            await self.send_alert(close, "spike")
 
     def reset_daily_state(self, open_time: datetime, open_: float):
         self.logger.info(f"{self.symbol}: Resetting daily state")
@@ -252,9 +261,16 @@ class Symbol:
 
         if reason == 'vwap':
             alert_price = self.vwap
-        else:
+            self.logger.info(
+                f"{self.symbol} ALERT | {reason.upper()}={alert_price} | price={price:.6f}"
+            )
+        elif reason == 'ema20':
             alert_price = self.ema_20
-
-        self.logger.info(
-            f"{self.symbol} ALERT | {reason.upper()}={alert_price} | price={price:.6f}"
-        )
+            self.logger.info(
+                f"{self.symbol} ALERT | {reason.upper()}={alert_price} | price={price:.6f}"
+            )
+        elif reason == 'spike':
+            self.logger.info(
+                f"{self.symbol} ALERT | {reason.upper()}={price:.6f}"
+            )
+        

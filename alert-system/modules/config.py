@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 KLINE_INTERVAL = "15m"
 EMA_PERIOD = 20
 DAILY_VOLUME_THRESHOLD = 3_000_000
+RELATIVE_VOLUME_THRESHOLD = 4
 UP_PCT_THRESHOLD_DAY = 10
 UP_PCT_THRESHOLD_NOW = 7
 
@@ -21,7 +22,7 @@ def get_today_start_ms():
 
 TODAY_START_MS = get_today_start_ms()
 
-ALERT_COOLDOWN_MS = 60 * 1000
+ALERT_COOLDOWN_MS = 60 * 3 * 1000
 
 
 # ===== PATHS =====

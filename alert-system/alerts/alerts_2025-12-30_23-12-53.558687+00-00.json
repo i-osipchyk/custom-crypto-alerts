@@ -1,0 +1,332 @@
+[
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:13:06.815000+00:00",
+        "price": 0.1643,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:13:30.588000+00:00",
+        "price": 0.1644,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "kmnousdt",
+        "time": "2025-12-30T23:14:16.337000+00:00",
+        "price": 0.06016,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:14:33.289000+00:00",
+        "price": 0.005871,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:14:41.836000+00:00",
+        "price": 0.00588,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "icntusdt",
+        "time": "2025-12-30T23:14:52.081000+00:00",
+        "price": 0.5363,
+        "reason": "spike"
+    },
+    {
+        "symbol": "tagusdt",
+        "time": "2025-12-30T23:14:53.791000+00:00",
+        "price": 0.000539,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "spkusdt",
+        "time": "2025-12-30T23:14:59.071000+00:00",
+        "price": 0.0224,
+        "reason": "spike"
+    },
+    {
+        "symbol": "skyaiusdt",
+        "time": "2025-12-30T23:15:00.666000+00:00",
+        "price": 0.03711,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:16:07.218000+00:00",
+        "price": 0.1639,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "iostusdt",
+        "time": "2025-12-30T23:16:33.450000+00:00",
+        "price": 0.001709,
+        "reason": "spike"
+    },
+    {
+        "symbol": "formusdt",
+        "time": "2025-12-30T23:17:06.834000+00:00",
+        "price": 0.3538,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "kmnousdt",
+        "time": "2025-12-30T23:17:32.073000+00:00",
+        "price": 0.06009,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:17:36.693000+00:00",
+        "price": 0.005858,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T23:17:46.181000+00:00",
+        "price": 0.09172,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "tagusdt",
+        "time": "2025-12-30T23:17:54.827000+00:00",
+        "price": 0.00054,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T23:18:00.144000+00:00",
+        "price": 0.1216,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "skyaiusdt",
+        "time": "2025-12-30T23:18:01.062000+00:00",
+        "price": 0.03724,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T23:18:02.613000+00:00",
+        "price": 0.030074,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T23:19:16.086000+00:00",
+        "price": 0.14774,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "iostusdt",
+        "time": "2025-12-30T23:19:34.168000+00:00",
+        "price": 0.001714,
+        "reason": "spike"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:19:45.792000+00:00",
+        "price": 0.1638,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "kmnousdt",
+        "time": "2025-12-30T23:20:33.725000+00:00",
+        "price": 0.06014,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T23:20:46.357000+00:00",
+        "price": 0.0921,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ustcusdt",
+        "time": "2025-12-30T23:20:54.051000+00:00",
+        "price": 0.006243,
+        "reason": "spike"
+    },
+    {
+        "symbol": "tagusdt",
+        "time": "2025-12-30T23:20:55.719000+00:00",
+        "price": 0.000539,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:21:00.407000+00:00",
+        "price": 0.005863,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "skyaiusdt",
+        "time": "2025-12-30T23:21:01.291000+00:00",
+        "price": 0.03731,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "formusdt",
+        "time": "2025-12-30T23:21:02.674000+00:00",
+        "price": 0.3523,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T23:21:09.598000+00:00",
+        "price": 0.030088,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "velvetusdt",
+        "time": "2025-12-30T23:21:24.419000+00:00",
+        "price": 0.14179,
+        "reason": "spike"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T23:21:49.514000+00:00",
+        "price": 0.1219,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:22:07.420000+00:00",
+        "price": 0.005873,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "ccusdt",
+        "time": "2025-12-30T23:22:50.969000+00:00",
+        "price": 0.14782,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "tradoorusdt",
+        "time": "2025-12-30T23:23:16.324000+00:00",
+        "price": 2.025,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "kmnousdt",
+        "time": "2025-12-30T23:23:34.789000+00:00",
+        "price": 0.0601,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "ustcusdt",
+        "time": "2025-12-30T23:23:57.303000+00:00",
+        "price": 0.006204,
+        "reason": "spike"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:24:00.467000+00:00",
+        "price": 0.005861,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "skyaiusdt",
+        "time": "2025-12-30T23:24:03.013000+00:00",
+        "price": 0.03724,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "formusdt",
+        "time": "2025-12-30T23:24:03.274000+00:00",
+        "price": 0.3522,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T23:24:09.606000+00:00",
+        "price": 0.030097,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T23:24:09.704000+00:00",
+        "price": 0.09288,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "velvetusdt",
+        "time": "2025-12-30T23:24:31.776000+00:00",
+        "price": 0.14286,
+        "reason": "spike"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:24:55.276000+00:00",
+        "price": 0.1638,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "recallusdt",
+        "time": "2025-12-30T23:26:20.818000+00:00",
+        "price": 0.122,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "kmnousdt",
+        "time": "2025-12-30T23:26:37.338000+00:00",
+        "price": 0.06017,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "woousdt",
+        "time": "2025-12-30T23:26:41.230000+00:00",
+        "price": 0.02884,
+        "reason": "spike"
+    },
+    {
+        "symbol": "broccolif3busdt",
+        "time": "2025-12-30T23:27:01.128000+00:00",
+        "price": 0.00586,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "skyaiusdt",
+        "time": "2025-12-30T23:27:04.166000+00:00",
+        "price": 0.03735,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:27:04.248000+00:00",
+        "price": 0.1643,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "tagusdt",
+        "time": "2025-12-30T23:27:07.655000+00:00",
+        "price": 0.000539,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "irysusdt",
+        "time": "2025-12-30T23:27:11.241000+00:00",
+        "price": 0.030105,
+        "reason": "ema20"
+    },
+    {
+        "symbol": "wctusdt",
+        "time": "2025-12-30T23:27:14.387000+00:00",
+        "price": 0.09329,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "zrxusdt",
+        "time": "2025-12-30T23:28:00.474000+00:00",
+        "price": 0.1645,
+        "reason": "vwap"
+    },
+    {
+        "symbol": "formusdt",
+        "time": "2025-12-30T23:28:01.913000+00:00",
+        "price": 0.352,
+        "reason": "ema20"
+    }
+]
